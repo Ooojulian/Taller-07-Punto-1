@@ -1,8 +1,6 @@
 # Implementación ASDR - Ejercicio 1, Presentación 07
 ## Analizador Sintáctico Descendente Recursivo
 
-**Lenguajes de Programación - Universidad Sergio Arboleda**
-
 ---
 
 ## Gramática Transformada (sin recursividad por la izquierda)
