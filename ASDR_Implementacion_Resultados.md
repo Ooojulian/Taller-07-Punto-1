@@ -1,7 +1,6 @@
 # Implementación ASDR - Ejercicio 1, Presentación 07
 ## Analizador Sintáctico Descendente Recursivo
 
----
 
 ## Gramática Transformada (sin recursividad por la izquierda)
 
